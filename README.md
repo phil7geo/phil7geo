@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phil7geo
+- 👋 Hi, I’m @phil7geo - FILIPPOS GEORGANTZOS
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning RestAssured API'S and Java Core
 - 💞️ I’m looking to collaborate on intersting projects for special companies as one Junior Web Developer for the start
